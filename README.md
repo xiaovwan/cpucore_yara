@@ -1,0 +1,2 @@
+# cpucore_yara
+yaratest
